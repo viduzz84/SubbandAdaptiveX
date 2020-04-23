@@ -1,7 +1,7 @@
 # SubbandAdapt
 ### Subband Adaptive Systems with Crossterms for aliasing cancellation
 
-These scripts and functions was developed for a project of the course *Circuiti e Algoritmi per Applicazioni Mutimediali* at Università Politecnica delle Marche
+These scripts and functions was developed for the course *Circuiti e Algoritmi per Applicazioni Mutimediali* at Università Politecnica delle Marche
 
 * `N_LMS.m` simple LMS and NLMS single channel adaptive filter
 
@@ -17,8 +17,10 @@ These scripts and functions was developed for a project of the course *Circuiti 
 
 * `Adaptive_pQMFB.m` Adaptive multiband structure with pseudoQMF and cross-filters
 
-* `pqmfa.m` , `pqmfs.m` analysis/synthesys functions
+* `pqmfa.m` , `pqmfs.m` analysis/synthesis functions
 
 * `nlms_cross_dual.m` , `nlms_cross_multi.m` adaptive functions
+
+* `Adaptive_AEC.m` Adaptive Acoustic Echo Cancellation application scenario of multirate system with crossterms
 
 <img src="images/lms.png" width=400>
