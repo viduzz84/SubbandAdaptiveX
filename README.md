@@ -1,2 +1,4 @@
 # SubbandAdapt
-Subband Adaptive Systems 1-2-N bands with Crossterms
+Subband Adaptive Systems with Crossterms for aliasing cancellation
+
+`N-LMS.m` simple LMS and NLMS adaptive filter
