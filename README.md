@@ -1,5 +1,5 @@
 # SubbandAdapt
-### Subband Adaptive System with Crossterms for aliasing cancellation
+### Subband Adaptive System with Crossterms for aliasing reduction
 
 These scripts and functions was developed for the course *Circuiti e Algoritmi per Applicazioni Mutimediali* at Università Politecnica delle Marche, following the article *Adaptive filtering in subbands with critical sampling: analysis, experiments, and application to acoustic echo cancellation - A.Gilloire, M.Vetterli*
 
