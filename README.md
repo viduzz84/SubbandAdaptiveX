@@ -1,7 +1,7 @@
 # SubbandAdapt
 ### Subband Adaptive Systems with Crossterms for aliasing cancellation
 
-These scripts and functions was developed for the course *Circuiti e Algoritmi per Applicazioni Mutimediali* at Università Politecnica delle Marche
+These scripts and functions was developed for the course *Circuiti e Algoritmi per Applicazioni Mutimediali* at Università Politecnica delle Marche, following the article *Adaptive filtering in subbands with critical sampling: analysis, experiments, and application to acoustic echo cancellation - A.Gilloire, M.Vetterli*
 
 * `N_LMS.m` simple LMS and NLMS single channel adaptive filter
 
@@ -24,5 +24,3 @@ These scripts and functions was developed for the course *Circuiti e Algoritmi p
 * `Adaptive_AEC.m` Adaptive Acoustic Echo Cancellation application scenario of multirate system with crossterms
 
 <img src="images/aecerror.png" width=800>
-
-<img src="images/cross_structure.png" width=400>
