@@ -23,6 +23,6 @@ These scripts and functions was developed for the course *Circuiti e Algoritmi p
 
 * `Adaptive_AEC.m` Adaptive Acoustic Echo Cancellation application scenario of multirate system with crossterms
 
-<img src="images/aecerror.png" width=400>
+<img src="images/aecerror.png" width=800>
 
-<img src="images/cross_structure.png" width=800>
+<img src="images/cross_structure.png" width=400>
